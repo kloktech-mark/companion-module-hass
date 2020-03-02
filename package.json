@@ -1,0 +1,19 @@
+{
+	"name": "hass",
+	"version": "0.0.1",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Webhooks"
+	],
+	"manufacturer": "Home Assistant",
+	"product": "HASS",
+	"shortname": "HASS",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "TaCheng Hou <houtacheng@gmail.com>",
+	"license": "MIT",
+	"homepage": "https://github.com/bitfocus/"
+}
