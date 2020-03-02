@@ -1,6 +1,6 @@
 ## Home Assistant (hass)  Module
 
-![](https://www.home-assistant.io/images/home-assistant-logo.svg)
+![](https://www.home-assistant.io/images/home-assistant-logo.svg | width=100)
 
 [Home Assistant (hass)](https://www.home-assistant.io/)
 
